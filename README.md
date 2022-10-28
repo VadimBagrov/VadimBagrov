@@ -28,5 +28,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VadimBagrov&theme=react&border_radius=5)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VadimBagrov&layout=compact&theme=react&border_radius=5) 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VadimBagrov&layout=compact&theme=react&border_radius=5)](https://github.com/anuraghazra/github-readme-stats)
