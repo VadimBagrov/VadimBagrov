@@ -37,4 +37,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VadimBagrov&theme=dark&background=212121)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VadimBagrov&theme=nord&border_radius=5)]
