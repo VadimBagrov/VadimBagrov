@@ -23,6 +23,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="Jbootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="gulp" alt="gulp" width="40" height="40"/>&nbsp;
 </div>
 
 ---
