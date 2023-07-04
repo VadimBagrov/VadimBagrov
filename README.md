@@ -5,9 +5,9 @@
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - 💻 I’m fond of developing applications and websites.
 
-- :seedling: Exploring Technical Content Writing.
+- 💡 Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
+- 🏁 In my free time I like to drive interesting cars at night, on weekends in the evening to watch formula 1 or the NBA.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) 
 
