@@ -2,8 +2,8 @@
 
 
 ### 👨‍💻 About Me :
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- 💻 I’m fond of developing applications and websites.
 
 - :seedling: Exploring Technical Content Writing.
 
