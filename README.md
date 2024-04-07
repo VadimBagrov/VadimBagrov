@@ -33,5 +33,3 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=Night%20Developer&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VadimBagrov&layout=compact&theme=react&border_radius=5)](https://github.com/anuraghazra/github-readme-stats)
